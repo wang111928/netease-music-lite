@@ -4,8 +4,15 @@
 
 > 本项目与网易公司及网易云音乐官方无隶属或背书关系。登录、曲库、播放地址等能力依赖第三方服务接口，接口变化可能影响使用。
 
+## 官网
+
+产品介绍、功能截图与更新日志（实时同步 Releases）：**<https://0721ciallo.xyz>**
+
+> 网页端可直接查看四套主题的真机截图与逐版本更新记录。
+
 ## 下载
 
+- **官网（含截图与更新日志）**：[0721ciallo.xyz](https://0721ciallo.xyz)
 - **Full arm64 APK（云声 0.2.42）**：[GitHub Releases](https://github.com/wang111928/yunsheng-player/releases/tag/v0.2.42)
 - 包名：`com.litemusic.app.full.debug`
 - 最低 Android 版本：Android 9（API 28）
